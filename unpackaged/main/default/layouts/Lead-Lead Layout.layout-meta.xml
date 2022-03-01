@@ -43,6 +43,10 @@
                 <behavior>Edit</behavior>
                 <field>Another_checkbox__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>one_more__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
