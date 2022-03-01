@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>SICCode__c</fullName>
+    <fullName>Another_checkbox__c</fullName>
+    <defaultValue>false</defaultValue>
     <externalId>false</externalId>
-    <label>SIC Code</label>
-    <length>15</length>
-    <required>false</required>
+    <label>Another checkbox</label>
     <trackFeedHistory>false</trackFeedHistory>
-    <type>Text</type>
-    <unique>false</unique>
+    <type>Checkbox</type>
 </CustomField>

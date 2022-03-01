@@ -39,6 +39,10 @@
                 <behavior>Edit</behavior>
                 <field>AnnualRevenue</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Another_checkbox__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
@@ -149,10 +153,6 @@
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>Description</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>Notes__c</field>
             </layoutItems>
         </layoutColumns>
         <style>OneColumn</style>
