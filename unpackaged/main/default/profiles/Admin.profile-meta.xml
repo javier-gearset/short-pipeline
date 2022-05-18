@@ -4707,4 +4707,8 @@
         <apexClass>MyHelloWorld</apexClass>
         <enabled>true</enabled>
     </classAccesses>
+    <classAccesses>
+        <apexClass>OlderAccountsUtility</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
 </Profile>
