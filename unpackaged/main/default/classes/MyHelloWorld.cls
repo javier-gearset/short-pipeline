@@ -1,6 +1,6 @@
 public class MyHelloWorld {
 
-  class myInnerClass {
+  class myInneryClass {
      // myInnerClass code here
    }
 
