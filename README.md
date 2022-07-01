@@ -4,6 +4,4 @@ a change
 
 another change
 
-a third change
-
-fourth
+a third chang
