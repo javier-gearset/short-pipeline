@@ -2,7 +2,9 @@ public class MyHelloWorld {
 
   class myInneryClass {
      // myInnerClass code here
-    // wassup
+    //hi
+    //yo
+    //wassup
    }
 
 }
